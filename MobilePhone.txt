@@ -34,10 +34,6 @@ WHERE ProductName LIKE "iPhone%";
 
 SELECT *
 FROM MobilePhone
-WHERE ProductName LIKE "iPhone%";
-
-SELECT *
-FROM MobilePhone
 WHERE Manufacturer LIKE "Samsung%";
 
 SELECT *
